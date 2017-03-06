@@ -1,0 +1,11 @@
+﻿  ANDROID_HOME=C:\android-sdk
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Apps\apache-ant-1.9.3\
+  JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+  NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r11c\
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  TRACKER : Fehler TRK0005: Fehler beim Suchen von "rc.exe". Das System kann die angegebene Datei nicht finden.
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(1407,5): error MSB6006: "rc.exe" wurde mit dem Code 5 beendet.

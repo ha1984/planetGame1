@@ -1,0 +1,8 @@
+﻿  ANDROID_HOME=C:\android-sdk
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Apps\apache-ant-1.9.3\
+  JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+  NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r11c\
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  plateGame.Android.NativeActivity.vcxproj -> C:\Users\Henning Ahrens\Documents\Visual Studio 2015\Projects\plateGame\ARM64\Debug\libplateGame.so
